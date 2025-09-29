@@ -5,7 +5,6 @@ def solve():
     a = input("введите 1 часть фразы: ")
     b = input("введите 2 часть фразы: ")
     c = input("введите 3 часть фразы: ")\
-    
     print("вывод: ")
     print(a,b,c, sep='\n')
     print(a,b,c, sep='---')
