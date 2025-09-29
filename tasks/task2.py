@@ -2,7 +2,7 @@
 
 def solve():
 # Ниже пишите решение задачи
-    x, y, z = map(int, input("введите три числа: ").split())
+    x, y, z = map(int, input("введите три числа через пробел: ").split())
     
     pencil_price = 3
     pen_price = pencil_price + 2
