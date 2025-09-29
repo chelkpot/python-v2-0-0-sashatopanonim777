@@ -2,12 +2,12 @@
 
 def solve():
 # Ниже пишите решение задачи
-    S = int(input("введите число: "))
+    S = int(input())
     
     x = S // 6         
     katya = 4 * x    
     
-    print("ответ:",x,katya,x)
+    print(x,katya,x)
     
 
     

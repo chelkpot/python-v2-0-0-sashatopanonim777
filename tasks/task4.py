@@ -2,10 +2,10 @@
 
 def solve():
 # Ниже пишите решение задачи
-    a = input("введите 1 часть фразы: ")
-    b = input("введите 2 часть фразы: ")
-    c = input("введите 3 часть фразы: ")\
-    print("вывод: ")
+    a = input()
+    b = input()
+    c = input()
+   
     print(a,b,c, sep='\n')
     print(a,b,c, sep='---')
 
