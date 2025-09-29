@@ -2,7 +2,12 @@
 
 def solve():
 # Ниже пишите решение задачи
-    
+    a, b = map(int, input("введите два числа: ").split())
+
+    not_harry = b - 1
+    not_larry = a - 1
+
+    print("ответ:",not_harry, not_larry)
 
 
 # Код ниже не трогать! он нужен для тестов
